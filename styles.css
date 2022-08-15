@@ -1,5 +1,27 @@
-body > nav{
+header, footer{
     background:#1F2937;
 
 }
-section
+main{
+    font-size: 48px;
+    font-weight:bolder;
+    color:#F9FAF8;
+
+}
+main > p{
+    font-size:18px;
+    color:#E5E7EB;
+}
+nav > span{
+    font-size:24px;
+    color:#F9FAF8;
+}
+button{
+    background: #3882F6;
+}
+section > h2{
+    font-size: 36px;
+    font-weight:bolder;
+    color:#1F2937;
+
+}
