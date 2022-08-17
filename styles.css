@@ -1,66 +1,7 @@
-header, footer{
+.first-section{
     background:#1F2937;
-
 }
-main{
-    font-size: 48px;
-    font-weight:bolder;
+#logo{
+    font-size: 24px;
     color:#F9FAF8;
-
-}
-main > p,ul li{
-    font-size:18px;
-    color:#E5E7EB;
-}
-nav > span{
-    font-size:24px;
-    color:#F9FAF8;
-}
-button {
-    background: #3882F6;
-}
-section > h2{
-    font-size: 36px;
-    font-weight:bolder;
-    color:#1F2937;
-
-}
-.storage{
-    display:flex;
-    height: 140px;
-    padding: 16px;
-    background:white;
-    align-items: center;
-    justify-content:center;
-    gap: 15px;
-}
-.box{
-    width: 60px;
-    height: 60px;
-    border:4pxsolid blue;
-    background:white;
-}
-
-.quote{
-    background:#E5E7EB;
-}
-.quote > p{
-    font-size: 36px;
-    font-style: italic;
-    color:#1F2937;
-}
-.container{
-    display:flex;
-    height: 140px;
-    padding: 16px;
-    background:white;
-    align-items: center;
-    justify-content:center;
-    gap: 15px;
-}
-.item{
-    width: 60px;
-    height: 60px;
-    border:4pxsolid blue;
-    background:white;
 }
