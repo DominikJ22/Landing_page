@@ -704,7 +704,6 @@ input, select, textarea {
 				width: 95%;
 				height: 50%;
 				margin-left: .5rem;
-				margin-right: .5rem;
 			}
 
 		@media screen and (max-width: 736px) {
